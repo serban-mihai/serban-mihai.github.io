@@ -1105,7 +1105,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		margin-left: -0.75rem;
-		padding-left: 0;
+		padding-left: 85%;
 	}
 
 		ul.actions li {
@@ -3509,6 +3509,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#page-wrapper {
+
 				padding-left: 2rem;
 				padding-right: 2rem;
 			}
